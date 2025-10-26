@@ -1,10 +1,13 @@
-jaki szybko ściągniemy plik o wielkości 1GB przy transferze 300 kB/s?
+
+
+jaki szybko ściągniemy plik o wielkości 1GB przy transferze 300 Kb/s?
 
 1 GB = 1024^3 B = 1 073 741 824 B
-300kb/s = 300000 b/s
-1 073 741 824 * 8 = 
+300kb/s = 300 000 b/s
+1 073 741 824 * 8 = 8 589 934 592 b
+efektywna przepustowość 300000 * 0.99 = 297 000 b/s
+
+Czas do pobrania : 28 922,34 s = około 8h i 2 min
 
 
-Pobierzemy go w około 7:24:26s co się przekłada na około 444,4 minut.
-
-Myślę, że nasza przepustowość jest zbyt niska żeby pobierać takie pliki, ponieważ zajmowanie pobierania dla jednego pliku ponad 7h jest dość nieoptymalne 
+Myślę, że nasza przepustowość jest zbyt niska żeby pobierać takie pliki, ponieważ zajmowanie pobierania dla jednego pliku ponad 8h jest dość nieoptymalne 
