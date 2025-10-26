@@ -30,3 +30,4 @@ Uczelnia nam blokuje wejście na wiele stron co później się przekłada na to 
 Pamięć podręczna DNS to tymczasowa baza danych zawierająca zapisy wszystkich ostatnich wizyt i prób odwiedzin stron internetowych, w tym odpowiadające im adresy IP.
 
 2. Dlaczego komputer przechowuje odwiedzone adresy? 
+Komputer przechowuje odwiedzone adresy DNS w pamięci podręcznej aby przyspieszyć ponowne łączenie z tymi samymi stronami bez ponownego odpytywania serwera DNS
