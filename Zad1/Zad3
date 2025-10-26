@@ -1,1 +1,24 @@
+a.karma.sc2.fsapi.com
+    ----------------------------------------
+    Record Name . . . . . : a.karma.sc2.fsapi.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 12224
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : karma-prd-a.edgekey.net
 
+
+    Record Name . . . . . : karma-prd-a.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 12224
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e27063.dscb.akamaiedge.net
+
+
+    Record Name . . . . . : e27063.dscb.akamaiedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 12224
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 2.21.33.106
