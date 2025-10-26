@@ -1,6 +1,6 @@
-jaki szybko ściągniemy plik o wielkości 1GB przy transferze 300 Kb/s?
+jaki szybko ściągniemy plik o wielkości 1GB przy transferze 300 kB/s?
 
-Do Obliczenia użyłem kalkulatora pobierania na internecie.
+1 GB = 1024 MB = 1048576 kB
 
 Pobierzemy go w około 7:24:26s co się przekłada na około 444,4 minut.
 
