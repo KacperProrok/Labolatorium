@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spis>
+	 <tozsamosc id="1">
+	 	<imie> Kacper </imie>
+ 		<nazwisko> Prorok </nazwisko>
+		<plec> mezczyzna </plec>
+		<wiek> 21 </wiek>
+		</tozsamosc>
+	 <tozsamosc id="2">
+ 		<imie> Eryk </imie>
+ 		<nazwisko> Biela </nazwisko>
+		<plec> mezczyzna </plec>
+		<wiek> 22 </wiek>
+	 </tozsamosc>
+</spis>
