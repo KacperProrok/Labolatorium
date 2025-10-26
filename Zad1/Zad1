@@ -1,1 +1,7 @@
+jaki szybko ściągniemy plik o wielkości 1GB przy transferze 300 Kb/s?
 
+Do Obliczenia użyłem kalkulatora pobierania na internecie.
+
+Pobierzemy go w około 7:24:26s co się przekłada na około 444,4 minut.
+
+Myślę, że nasza przepustowość jest zbyt niska żeby pobierać takie pliki, ponieważ zajmowanie pobierania dla jednego pliku ponad 7h jest dość nieoptymalne 
